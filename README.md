@@ -8,8 +8,7 @@ Welcome to **EBOOKSTORE**, a web-based platform designed for browsing, purchasin
 - 🛒 Add to cart & manage orders
 - ❤️ Add books to wishlist
 - 🔐 User authentication (Login/Signup)
-- 📦 Admin panel for book management (optional)
-
+- 📦 Admin panel for book management
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js + Tailwind CSS
@@ -29,9 +28,9 @@ cd e-book
 # Install frontend dependencies
 cd client
 npm install
-npm start
+npm run dev
 
-# For backend (if available)
+# For backend
 cd ../server
 npm install
 npm start
